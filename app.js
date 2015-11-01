@@ -19,3 +19,4 @@ connection.query('SELECT * FROM v_mit_abt', function(err, rows, fields) {
 });
 
 test michi
+test david
