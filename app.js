@@ -17,3 +17,5 @@ connection.query('SELECT * FROM v_mit_abt', function(err, rows, fields) {
  
   console.log('The solution is: ', rows);
 });
+
+test michi
